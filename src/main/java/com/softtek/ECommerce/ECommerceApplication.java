@@ -37,7 +37,7 @@ public class ECommerceApplication {
 		SpringApplication.run(ECommerceApplication.class, args);
 	}
 
-
+/*
 	@Bean
 	public CommandLineRunner init(UsuariosService usuarios,
 								  AreaPersonalizacionService areas,
@@ -212,7 +212,7 @@ public class ECommerceApplication {
 
 
 		};
-	}
+	}*/
 
 
 }
